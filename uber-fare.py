@@ -8,7 +8,7 @@ The objective of this analysis is to:
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from my_functions import haversine_py #importing haversine_py function from my_functions module to convert coordinates to distance
+from My_functions import haversine_py #importing haversine_py function from my_functions module to convert coordinates to distance
 #Importing Scikit-learn libraries
 from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsRegressor
